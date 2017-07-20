@@ -2,6 +2,20 @@
 Thumbs.db
 ehthumbs.db
 
+.project
+.classpath
+.jar
+.lst
+**/.settings
+**/target
+
+# IntelliJ project files
+.idea
+*.iml
+
+gen### Java template
+.gitignore
+
 # Folder config file
 Desktop.ini
 
